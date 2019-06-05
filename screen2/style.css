@@ -1,0 +1,44 @@
+body{
+    height: 953px;
+    background-color:#4421EE;
+    background-image: linear-gradient(to top right , #4421EE,#A308FB);
+}
+h1{
+    font-size: 45px;
+    color:white;
+}
+form{
+    padding: 40px 100px;
+}
+form p{
+    color: #D5C2FB;
+    font-size: 17px;
+    width:80%;
+}
+h3{
+    color:white;
+
+}
+h2{
+    color:white;
+    font-size: 35px;
+}
+input{
+    padding:10px 7px;
+    width:79%;
+}
+textarea{
+    width: 79.7%
+}
+button{
+    padding: 10px 30px;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    border-color: black;
+
+
+}
+input,textarea,button{
+    margin-top: 14px;
+}
